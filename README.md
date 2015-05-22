@@ -66,3 +66,10 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+<TODO fix blank patient schedule when there is no trial schedule>
+<TODO refactor scheduling method>
+<TODO finish refactor of the conflicts, warnings, and successes>
+<TODO Fix page headers>
+<TODO Add specialist to trial, along with vacations>
+<TODO EVENTUALLY Add interactive calendar to patient scheduling>
